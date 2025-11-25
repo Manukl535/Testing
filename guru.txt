@@ -1,0 +1,3 @@
+name:guruprasad mc
+age:18
+hobbies:playing kabbadi
